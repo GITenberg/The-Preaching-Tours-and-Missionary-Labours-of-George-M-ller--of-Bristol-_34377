@@ -1,0 +1,27 @@
+_repo: The-Preaching-Tours-and-Missionary-Labours-of-George-M-ller--of-Bristol-_34377
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34377-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Müller, Susannah Grace Sanger
+    aliases:
+    - Müller, Mrs.
+    - Muller, Susannah Grace
+    gutenberg_agent_id: '36983'
+    url: http://www.gutenberg.org/2009/agents/36983
+description: ''
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Müller, George, 1805-1898'
+- !lcc 'HV'
+title: The Preaching Tours and Missionary Labours of George Müller (of Bristol)
+url: http://www.gutenberg.org/ebooks/34377
